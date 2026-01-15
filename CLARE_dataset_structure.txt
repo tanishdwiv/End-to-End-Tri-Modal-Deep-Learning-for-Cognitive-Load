@@ -1,0 +1,23 @@
+CLARE DATASET STRUCTURE REPORT
+======================================================================
+
+Dataset Path: CLARE_dataset/
+
+Summary:
+   total_folders: 5
+   total_files: 20
+   csv_files: 509
+   txt_files: 2
+   mat_files: 0
+   edf_files: 0
+
+Top-level folders:
+   - ECG
+   - EDA
+   - EEG
+   - Gaze
+   - Labels
+
+File types found:
+   .csv: 509 files
+   .txt: 2 files
